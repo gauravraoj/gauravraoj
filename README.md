@@ -43,7 +43,6 @@ I'm always looking forward to collaborating with like-minded developers. If you 
 
 Feel free to star any repository you find useful or fork it to build upon my work. Happy coding! 🚀
 
----
-*Note: The above example uses `flat-square` style for the icons, but you can choose other styles like `flat`, `for-the-badge`, etc., based on your preference. Replace "Your Name," "YourGitHubProfile," "your.email@example.com," and "YourLinkedInProfile" with your actual name and corresponding links. Additionally, you can explore different badge styles and colors to further customize the appearance.*
+
 
 
