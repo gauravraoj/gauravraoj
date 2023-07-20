@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Your Name
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubProfile-blue?logo=github)](https://github.com/YourGitHubProfile)
-
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-red?logo=gmail)](mailto:your.email@example.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubProfile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YourGitHubProfile)
+[![Email](https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
 ## About Me
 
@@ -48,10 +47,10 @@ I enjoy contributing to open-source projects and learning from other developers.
 
 ## Statistics
 
-- **Repositories**: [![GitHub Repos](https://img.shields.io/badge/GitHub-XX%20Repositories-green)](https://github.com/YourGitHubProfile?tab=repositories)
-- **Stars**: [![GitHub Stars](https://img.shields.io/badge/GitHub-XX%20Stars-yellow)](https://github.com/YourGitHubProfile/stars)
-- **Followers**: [![GitHub Followers](https://img.shields.io/badge/GitHub-XX%20Followers-blue)](https://github.com/YourGitHubProfile?tab=followers)
-- **Following**: [![GitHub Following](https://img.shields.io/badge/GitHub-XX%20Following-blue)](https://github.com/YourGitHubProfile?tab=following)
+![GitHub Repositories](https://img.shields.io/badge/Repositories-XX-green?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/badge/Stars-XX-yellow?style=for-the-badge)
+![GitHub Followers](https://img.shields.io/badge/Followers-XX-blue?style=for-the-badge)
+![GitHub Following](https://img.shields.io/badge/Following-XX-blue?style=for-the-badge)
 
 ## Contact
 
@@ -67,5 +66,6 @@ I'm always looking forward to collaborating with like-minded developers. If you 
 Feel free to star any repository you find useful or fork it to build upon my work. Happy coding! 🚀
 
 ---
-*Note: Replace "Your Name," "YourGitHubProfile," "your.email@example.com," and "YourLinkedInProfile" with your actual name and corresponding links. Also, update the project descriptions, statistics, and other details as needed.*
+*Note: The above example uses `flat-square` style for the icons, but you can choose other styles like `flat`, `for-the-badge`, etc., based on your preference. Replace "Your Name," "YourGitHubProfile," "your.email@example.com," and "YourLinkedInProfile" with your actual name and corresponding links. Additionally, you can explore different badge styles and colors to further customize the appearance.*
+
 
