@@ -1,47 +1,22 @@
+<h1 align="center">Hi 👋, I'm GAURAV RAO J</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravraoj&label=Profile%20views&color=0e75b6&style=flat" alt="gauravraoj" /> </p>
 
-<!--
-**gauravraoj/gauravraoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-rao-j-78849b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-rao-j-78849b206" height="50" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravraoj&show_icons=true&locale=en&layout=compact" alt="gauravraoj" /></p>
 
-## GAURAV RAO J
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravraoj&show_icons=true&locale=en" alt="gauravraoj" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravraoj&" alt="gauravraoj" /></p>
 
-
-## About Me
-
-I am a passionate developer with a love for coding and problem-solving. My areas of interest include web development, machine learning, and data science. I'm always eager to learn and collaborate on exciting projects.
-
-## CONTACT 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravraoj)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gauravraoj29@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-rao-j-78849b206)
-
-## Statistics
-
-![GitHub Repositories](https://img.shields.io/badge/Repositories-XX-green?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/badge/Stars-XX-yellow?style=for-the-badge)
-![GitHub Followers](https://img.shields.io/badge/Followers-XX-blue?style=for-the-badge)
-![GitHub Following](https://img.shields.io/badge/Following-XX-blue?style=for-the-badge)
-
-
-
-## Let's Collaborate!
-
-I'm always looking forward to collaborating with like-minded developers. If you find any of my projects interesting or have an idea for a new one, don't hesitate to reach out. Let's create something awesome together!
-
-Feel free to star any repository you find useful or fork it to build upon my work. Happy coding! 🚀
 
 
 
