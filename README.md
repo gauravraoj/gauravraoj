@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #GAURAV RAO J
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourGitHubProfile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravraoj)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauravraoj)
 [![Email](https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gauravraoj29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
