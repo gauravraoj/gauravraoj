@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **gauravraoj/gauravraoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # Your Name
 
 [![GitHub](https://img.shields.io/badge/GitHub-YourGitHubProfile-blue?logo=github)](https://github.com/YourGitHubProfile)
+
 [![Email](https://img.shields.io/badge/Email-your.email%40example.com-red?logo=gmail)](mailto:your.email@example.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 
 ## About Me
